@@ -2,37 +2,37 @@
   "brand": "iLang",
   "runtime_schema": 1,
   "channel": "latest",
-  "version": "2026.09.23-65222aa76c8d",
-  "bundle_url": "https://raw.githubusercontent.com/ilang-ai/ilang-spec/main/runtime/ilang-latest.md",
-  "sha256_url": "https://raw.githubusercontent.com/ilang-ai/ilang-spec/main/runtime/ilang-latest.sha256",
+  "version": "2026.09.29-636ff0a97eb0",
+  "bundle_url": "https://runtime.ilang.app/ilang-latest.md",
+  "sha256_url": "https://runtime.ilang.app/ilang-latest.sha256",
   "source_repo": "https://github.com/ilang-ai/ilang-spec",
-  "source_commit": "09e5a153e08e02bd00fa59f2d1c4b67742666e96",
-  "commit": "09e5a153e08e02bd00fa59f2d1c4b67742666e96",
-  "updated_at": "2026-09-23T00:33:52+08:00",
+  "source_commit": "216070504d1355fc29e88d317f088827275b894e",
+  "commit": "216070504d1355fc29e88d317f088827275b894e",
+  "updated_at": "2026-09-29T23:19:37+08:00",
   "bundles": {
     "core": {
-      "url": "https://raw.githubusercontent.com/ilang-ai/ilang-spec/main/runtime/ilang-latest.md",
-      "sha256": "65222aa76c8db3510d3aab1430dd0cc8de0f281a10336f53d43352b1f6d0e21f",
-      "bytes": 69145,
+      "url": "https://runtime.ilang.app/ilang-latest.md",
+      "sha256": "636ff0a97eb0d15e29f3a8985fc5ff2d2b26bc2451ece30627de1f6f1e5bbe90",
+      "bytes": 93875,
       "sources": [
         "SPEC.md",
         "SPEC-v4.0-FINAL.md",
-        "SPEC-v5.0-PRE.md"
+        "SPEC-v5.0.md"
       ]
     },
     "full": {
-      "url": "https://raw.githubusercontent.com/ilang-ai/ilang-spec/main/runtime/ilang-full.md",
-      "sha256": "a54f92738239944f768dc5cbe4829a819bc5de71c6d72dee591c0e1515542191",
-      "bytes": 94142,
+      "url": "https://runtime.ilang.app/ilang-full.md",
+      "sha256": "d92249cc630bc5d5dab20deb0ab6446eda9e50e827f1152b8bb69eba4894daa2",
+      "bytes": 128134,
       "sources": [
         "SPEC.md",
         "SPEC-v4.0-FINAL.md",
-        "SPEC-v5.0-PRE.md"
+        "SPEC-v5.0.md"
       ]
     },
     "media": {
-      "url": "https://raw.githubusercontent.com/ilang-ai/ilang-spec/main/runtime/ilang-media-latest.md",
-      "sha256": "625b2ec3e25a6618383c3ff3f69a2adb58ad518808fa6d74f26774c5a553bb58",
+      "url": "https://runtime.ilang.app/ilang-media-latest.md",
+      "sha256": "84fa07dbc9b54815999c4d0c53d90b383f9b0b26f3eb100dcf2a98226ce5fdb1",
       "bytes": 63671,
       "sources": [
         "SPEC-v4.1-MEDIA-PROFILE.md",
@@ -40,5 +40,5 @@
       ]
     }
   },
-  "pinned": "https://raw.githubusercontent.com/ilang-ai/ilang-spec/main/runtime/versions/2026.09.23-65222aa76c8d/manifest.json"
+  "pinned": "https://runtime.ilang.app/versions/2026.09.29-636ff0a97eb0/manifest.json"
 }
